@@ -1,0 +1,2 @@
+# College-Website-Automation
+A web automation Application Developed using Selenium v3.3 and Python 3.6. The application scraps the required information from the student’s college website account. It mails the student, every day's attendance and also warns the student if there are any problems like the attendance falling behind a default value.  The goal of the application was to reduce the manual time spent by the student on the website doing mundane things.
